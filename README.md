@@ -2,7 +2,9 @@ This is a simple real time emotion detection model.
 
 The working model is saved as model_weights.h5 file.
 
-To use the emotion detection model, follow the given steps:
+The gui file is saved as real_time.py.
+
+#To use the emotion detection model, follow the given steps:
 
 1.Just Clone or download and unzip the repository.
 
