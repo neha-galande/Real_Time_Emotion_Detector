@@ -4,7 +4,9 @@ The working model is saved as model_weights.h5 file.
 
 The gui file is saved as real_time.py.
 
-#To use the emotion detection model, follow the given steps:
+This is the link for demonstration video of working model--
+
+#To use the realtime emotion detection model, follow the given steps:
 
 1.Just Clone or download and unzip the repository.
 
